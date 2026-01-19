@@ -16,6 +16,9 @@ La méthode consiste à :
 Générer des points aléatoires dans un carré de côté 1
 Compter combien de points tombent dans un quart de cercle de rayon 1
 Estimer Pi = 4 × (points dans le cercle / total de points)
+
+<img width="572" height="593" alt="image" src="https://github.com/user-attachments/assets/52b12cbd-ac25-4cd7-b5f1-57c4d3a4af19" />
+
 ---
 
 ### 2. CODE MONO-THREAD (2 minutes)
