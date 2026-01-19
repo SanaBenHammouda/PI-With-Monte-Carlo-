@@ -416,11 +416,8 @@ Modifier `multi_thread.py` pour utiliser `multiprocessing.Pool` et comparer les 
 4. **Réactivité** : Programme reste responsive en multi-thread
 5. **Complexité** : Code multi-thread plus complexe mais gains significatifs
 
-## 📝 Licence
-
-Projet éducatif - Libre d'utilisation
-
 ## 👨‍💻 Auteur
 
-Projet de comparaison mono-thread vs multi-thread pour démonstration pédagogique.
-"# PI-With-Monte-Carlo-" 
+Ben Hammouda Sana
+Ben Salah Mohamed Jobrane  
+Sebtaoui Imen 
