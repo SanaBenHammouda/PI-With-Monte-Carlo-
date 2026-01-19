@@ -10,10 +10,12 @@
 **Script suggéré :**
 > "Bonjour ! Aujourd'hui, je vais vous présenter une comparaison entre programmation mono-thread et multi-thread en Python. Nous allons utiliser la simulation Monte Carlo pour calculer Pi, une tâche parfaitement parallélisable qui démontre clairement les avantages du multi-threading."
 
-**Éléments visuels :**
-- Montrer le README.md
-- Expliquer brièvement la méthode Monte Carlo (points aléatoires dans un cercle)
+Méthode Monte Carlo pour Pi
+La méthode consiste à :
 
+Générer des points aléatoires dans un carré de côté 1
+Compter combien de points tombent dans un quart de cercle de rayon 1
+Estimer Pi = 4 × (points dans le cercle / total de points)
 ---
 
 ### 2. CODE MONO-THREAD (2 minutes)
