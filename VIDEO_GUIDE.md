@@ -18,6 +18,8 @@ Compter combien de points tombent dans un quart de cercle de rayon 1
 Estimer Pi = 4 × (points dans le cercle / total de points)
 
 <img width="572" height="593" alt="image" src="https://github.com/user-attachments/assets/52b12cbd-ac25-4cd7-b5f1-57c4d3a4af19" />
+Plus on génère de points, plus l'estimation est précise. Cette tâche est parfaitement parallélisable car chaque point est indépendant.
+
 
 ---
 
